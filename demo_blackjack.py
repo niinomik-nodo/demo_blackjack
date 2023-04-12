@@ -1,8 +1,3 @@
-# NOTE 手順
-# 1. ゲームが始まることを告げる
-# 手札を2枚配る
-# カードを捨てるか決める
-# 勝負する
 import random
 
 from time import sleep
